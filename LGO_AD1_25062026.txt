@@ -1,0 +1,12 @@
+Documentos
+## 1. Conjunto de datos
+
+El conjunto de datos a utilizar es: [wimDataNobol.csv](https://drive.google.com/file/d/1vpK5r0hMft7TLttKDQNreFiVS_Altk04/view)
+
+## 2. Entorno de trabajo
+
+2. Entorno de trabajo:
+
+   2.1 [Repositorio en GitHub](https://github.com/kevinloorf95-glitch/proyectoAD.git)
+
+   2.2 [Video de generación un nuevo ambiente virtual para el desarrollo del proyecto](https://youtu.be/JROuhkhdtio)
